@@ -46,6 +46,7 @@
     <Compile Include="1-ExtraFile.cs" />
     <Compile Include="2-UsandoStreamReader.cs" />
     <Compile Include="3-CriandoArquivo.cs" />
+    <Compile Include="4-EntradaCOn.cs" />
     <Compile Include="Modelos\Cliente.cs" />
     <Compile Include="Modelos\ContaCorrente.cs" />
     <Compile Include="Program.cs" />
